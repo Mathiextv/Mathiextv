@@ -8,7 +8,5 @@ I am someone who takes pleasure in working on small details with great patience.
 
 ## 🎨 All projects related to me
 
-- [**mxaizen map**](https://linktr.ee/mxaizen_map): secretary and mapper
-- [**agea59**](https://www.twitch.tv/agea59): Administrators and Moderators
 - [**kaystas_**](https://www.twitch.tv/kaystas_): Administrators and Moderators
 - [**Digital Pioneers**](https://discord.gg/hA4XXFs8wc): Administrators
