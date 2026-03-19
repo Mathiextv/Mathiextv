@@ -8,7 +8,7 @@
  
 [![Twitch](https://img.shields.io/badge/Twitch-kaystas__-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/kaystas_)
 [![Discord](https://img.shields.io/badge/Discord-Digital_Pioneers-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hA4XXFs8wc)
-[![GitHub](https://img.shields.io/badge/GitHub-mathiex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mathiex)
+[![GitHub](https://img.shields.io/badge/GitHub-mathiex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mathiextv)
  
 </div>
  
